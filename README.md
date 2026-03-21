@@ -1,4 +1,4 @@
-# PT-CycleGAN-for-MRI-Synthesis
+# PT-CycleGAN: Progressive Transformer-based CycleGAN for 3T to 7T-like MRI Synthesis
 Official implementation of PT-CycleGAN: Progressive Transformer-based CycleGAN for 3T to 7T-like MRI Synthesis.
 
 This folder contains the core Python scripts to:
